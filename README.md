@@ -17,6 +17,6 @@ me gusta cualquier tipo de musica y cada vez que tengo tiempo, me escapo a 9 de 
 # Mis pasatiempos
 
 - Juego al futbol
-- Me gusta el campo
+- Voy al campo
 - Salgo de fiesta
 - Miro peliculas
