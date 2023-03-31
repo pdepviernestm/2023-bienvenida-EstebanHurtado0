@@ -11,6 +11,9 @@ Sobre Mi
 me gusta cualquier tipo de musica y cada vez que tengo tiempo, me escapo a 9 de Julio.*
 ---
 
+![Foto](https://github.com/pdepviernestm/2023-bienvenida-EstebanHurtado0/blob/main/WhatsApp%20Image%202023-03-31%20at%2018.09.24.jpeg?raw=true)
+
+
 # Mis pasatiempos
 
 - Juego al futbol
