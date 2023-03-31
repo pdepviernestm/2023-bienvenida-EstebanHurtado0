@@ -19,4 +19,4 @@ me gusta cualquier tipo de musica y cada vez que tengo tiempo, me escapo a 9 de 
 - Juego al futbol
 - Voy al campo
 - Salgo de fiesta
-- Miro peliculas
+- Voy al Gimnasio
