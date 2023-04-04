@@ -21,4 +21,5 @@ me gusta cualquier tipo de musica y cada vez que tengo tiempo, me escapo a 9 de 
 - Salgo de fiesta
 - Voy al Gimnasio
 
-![Image921](https://user-images.githubusercontent.com/101006860/229820310-2c914fa1-1053-4454-8438-8d39bdae2c40.jpeg)
+
+![Image33](https://user-images.githubusercontent.com/101006860/229821136-1dbdb82c-a157-4382-b11c-6a170ee25d19.jpeg)
