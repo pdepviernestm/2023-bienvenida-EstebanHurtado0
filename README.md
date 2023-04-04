@@ -11,7 +11,7 @@ Sobre Mi
 me gusta cualquier tipo de musica y cada vez que tengo tiempo, me escapo a 9 de Julio.*
 ---
 
-![Foto](https://github.com/EstebanHurtado0/RepositorioReadme/blob/main/WhatsApp%20Image%202023-03-31%20at%2018.09.24.jpeg?raw=true)
+![Image232](https://user-images.githubusercontent.com/101006860/229820144-3a87c5dd-39cc-4754-8e78-9b8215b6ca6d.jpeg)
 
 
 # Mis pasatiempos
@@ -20,3 +20,5 @@ me gusta cualquier tipo de musica y cada vez que tengo tiempo, me escapo a 9 de 
 - Voy al campo
 - Salgo de fiesta
 - Voy al Gimnasio
+
+![Image921](https://user-images.githubusercontent.com/101006860/229820310-2c914fa1-1053-4454-8438-8d39bdae2c40.jpeg)
