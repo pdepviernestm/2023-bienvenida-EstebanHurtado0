@@ -11,7 +11,8 @@ Sobre Mi
 me gusta cualquier tipo de musica y cada vez que tengo tiempo, me escapo a 9 de Julio.*
 ---
 
-![Image232](https://user-images.githubusercontent.com/101006860/229820144-3a87c5dd-39cc-4754-8e78-9b8215b6ca6d.jpeg)
+
+![Image33](https://user-images.githubusercontent.com/101006860/229821136-1dbdb82c-a157-4382-b11c-6a170ee25d19.jpeg)
 
 
 # Mis pasatiempos
@@ -22,4 +23,5 @@ me gusta cualquier tipo de musica y cada vez que tengo tiempo, me escapo a 9 de 
 - Voy al Gimnasio
 
 
-![Image33](https://user-images.githubusercontent.com/101006860/229821136-1dbdb82c-a157-4382-b11c-6a170ee25d19.jpeg)
+
+![Image232](https://user-images.githubusercontent.com/101006860/229820144-3a87c5dd-39cc-4754-8e78-9b8215b6ca6d.jpeg)
